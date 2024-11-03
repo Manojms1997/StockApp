@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
+using StockAppBackend.Models;
 
 namespace StockAppBackend.Controllers
 {
-	[ApiController]
+    [ApiController]
 	[Route("[controller]")]
 	public class WeatherForecastController : ControllerBase
 	{
