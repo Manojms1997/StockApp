@@ -15,4 +15,19 @@
 - Watchlist / Favorites
 - User Auth
 
+## Project Setup:
+
+### Frontend:
+- Node Version - 20.18.0
+- Angular - 18.2.11
+- VSCode
+- Todo: Tailwind CSS
+
+### Backend:
+- VS 2022 - community
+- .NET - 7
+- Todo: ADO.NET setup
+
+### DB:
+- SQL Server Management Studio
 
