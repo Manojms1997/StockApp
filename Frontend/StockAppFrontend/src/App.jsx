@@ -1,10 +1,11 @@
 import './App.css'
+import AppHeader from './Components/AppHeader'
 
 function App() {
 
   return (
     <>
-      <h1>Stock App coming up: visualize and analyze your favourite stocks and get their insights, fundamentals and latest news updates</h1>
+      <AppHeader></AppHeader>
     </>
   )
 }
