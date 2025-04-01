@@ -1,10 +1,9 @@
 # Stock App
 
 ### Tech Stack
-- Angular
-- .NET 
-- SQLServer 
+- React
 - Tailwind CSS
+
 - Optional: Unit, E2E - Cypress 
 
 ### Functional Requirements:
